@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/sitewebjoyeuse/static/css/main.5c666a85.chunk.css",
+    "main.js": "/sitewebjoyeuse/static/js/main.8e36b965.chunk.js",
+    "main.js.map": "/sitewebjoyeuse/static/js/main.8e36b965.chunk.js.map",
+    "runtime-main.js": "/sitewebjoyeuse/static/js/runtime-main.203ee4a1.js",
+    "runtime-main.js.map": "/sitewebjoyeuse/static/js/runtime-main.203ee4a1.js.map",
+    "static/js/2.3f222327.chunk.js": "/sitewebjoyeuse/static/js/2.3f222327.chunk.js",
+    "static/js/2.3f222327.chunk.js.map": "/sitewebjoyeuse/static/js/2.3f222327.chunk.js.map",
+    "static/js/3.684c12e2.chunk.js": "/sitewebjoyeuse/static/js/3.684c12e2.chunk.js",
+    "static/js/3.684c12e2.chunk.js.map": "/sitewebjoyeuse/static/js/3.684c12e2.chunk.js.map",
+    "index.html": "/sitewebjoyeuse/index.html",
+    "static/css/main.5c666a85.chunk.css.map": "/sitewebjoyeuse/static/css/main.5c666a85.chunk.css.map",
+    "static/js/2.3f222327.chunk.js.LICENSE.txt": "/sitewebjoyeuse/static/js/2.3f222327.chunk.js.LICENSE.txt",
+    "static/media/ConstructGIF.d174995e.gif": "/sitewebjoyeuse/static/media/ConstructGIF.d174995e.gif",
+    "static/media/ConstructVideo.74fd9c1b.mp4": "/sitewebjoyeuse/static/media/ConstructVideo.74fd9c1b.mp4",
+    "static/media/FightGIF.e84cc2e9.gif": "/sitewebjoyeuse/static/media/FightGIF.e84cc2e9.gif",
+    "static/media/FightVideo.f095a082.mp4": "/sitewebjoyeuse/static/media/FightVideo.f095a082.mp4",
+    "static/media/SmithGIF.08a03091.gif": "/sitewebjoyeuse/static/media/SmithGIF.08a03091.gif",
+    "static/media/SmithVideo.c4e01b82.mp4": "/sitewebjoyeuse/static/media/SmithVideo.c4e01b82.mp4",
+    "static/media/SwordPicture.fc281c17.png": "/sitewebjoyeuse/static/media/SwordPicture.fc281c17.png",
+    "static/media/logo.6ce24c58.svg": "/sitewebjoyeuse/static/media/logo.6ce24c58.svg",
+    "static/media/logostudioblanc.a53a5830.png": "/sitewebjoyeuse/static/media/logostudioblanc.a53a5830.png",
+    "static/media/team.3c4742d6.jpg": "/sitewebjoyeuse/static/media/team.3c4742d6.jpg",
+    "static/media/team_new.3f373931.jpg": "/sitewebjoyeuse/static/media/team_new.3f373931.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.203ee4a1.js",
+    "static/js/2.3f222327.chunk.js",
+    "static/css/main.5c666a85.chunk.css",
+    "static/js/main.8e36b965.chunk.js"
+  ]
+}
